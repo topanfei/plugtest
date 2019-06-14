@@ -93,6 +93,7 @@ public class CapturePictureUtil {
 		}catch (Exception e) {
 		}finally {
 			webDriver.close();
+			webDriver.quit();
 		}
 		return file;
 	}

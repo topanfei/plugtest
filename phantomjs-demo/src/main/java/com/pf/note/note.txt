@@ -1,0 +1,12 @@
+linux上安装phantomjs参考地址：https://www.cnblogs.com/snow-l/p/8522265.html
+
+-------------------------------
+（1）设置权限
+  chmod o =rx,g=rx phantomjs
+  
+（2）切换用户
+  切换root用户：su -
+ 切换用户名为user的用户：su -user
+ 
+ （3）上传文件
+   rz -bey  
