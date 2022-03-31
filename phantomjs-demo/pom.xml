@@ -7,7 +7,7 @@
   
   <!-- 该标签是指定项目中jar的版本，在以下的引用中就可以直接用${spring.version}了-->
   	<properties>
-  		<spring.version>4.1.6.RELEASE</spring.version>
+  		<spring.version>5.3.18</spring.version>
   	</properties>
   	<dependencies>
   		<!-- 单元测试jar -->
